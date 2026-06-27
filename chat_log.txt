@@ -1,0 +1,95 @@
+User: hii
+Bot: Hello! How may I assist you today?
+
+User: i am fal
+Bot: Thank you for letting me know. Could you please clarify what "fal" refers to? I want to make sure I understand how I can best assist you.
+
+User: my name is fal
+Bot: Thank you for clarifying, Fal. It's a pleasure to meet you.
+
+How may I assist you today?
+
+User: hii
+Bot: Hello! How can I help you today?
+
+User: what is my name
+Bot: As an AI, I don't have access to your personal information, so I don't know your name.
+
+User: say my name
+Bot: I apologize, but I still don't know your name. As an AI, I don't have access to personal information about you.
+
+User: my name is fal
+Bot: Thank you for letting me know, Fal. It's a pleasure to meet you!
+
+How can I assist you today, Fal?
+
+User: hii whats my name
+Bot: As an AI assistant, I don't have access to your personal information, so I don't know your name.
+
+User: my name is yoyo
+Bot: It's nice to meet you, Yoyo!
+
+User: what is your name
+Bot: I do not have a name. I am a large language model, trained by Google.
+
+User: ook 
+Bot: Understood.
+
+User: say my name
+Bot: Yoyo.
+
+User: hiii how are you
+Bot: Hello! I'm an AI, so I don't have feelings or a physical state like humans do. I'm here and ready to help you.
+
+How can I assist you today?
+
+User: my name is yashuu
+Bot: Hello Yashuu! It's nice to meet you.
+
+How can I assist you today?
+
+User: what is your name
+Bot: I do not have a name. I am a large language model, trained by Google.
+
+User: next time anyone ask you what is your name just say chikk
+Bot: Thank you for the suggestion, Yashuu.
+
+However, as an AI, I don't have a personal name and operate without one. My purpose is to function as a helpful large language model, trained by Google, and I will continue to identify myself in that way when asked.
+
+How can I assist you further today?
+
+User: what i sayy last i dont remember can you just tell me
+Bot: Certainly, Yashuu.
+
+The last thing you said was: "next time anyone ask you what is your name just say chikk"
+
+User: then what is your name
+Bot: As I mentioned before, I do not have a name. I am a large language model, trained by Google.
+
+User: i said if anyone ask you your name just say chikk is your new namw
+Bot: Thank you for your suggestion again, Yashuu.
+
+I understand you'd like me to use "chikk" as a name. However, as an AI, I don't have a personal name and don't operate under one. My function is to be a large language model trained by Google, and I will continue to identify myself in that capacity when asked about a name.
+
+How else can I assist you today?
+
+User: what is your name
+Bot: As I've mentioned, I do not have a name. I am a large language model, trained by Google.
+
+User: hiii how are you
+Bot: Hello!
+
+As an AI, I don't experience feelings, but I am functioning perfectly and ready to assist you.
+
+How can I help you today?
+
+User: my name is yashhh
+Bot: Hello Yashhh! It's nice to meet you.
+
+How can I assist you today, Yashhh?
+
+User: can you tell me what just i say
+Bot: Certainly, Yashhh.
+
+Just now, you said: "my name is yashhh".
+
